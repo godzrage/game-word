@@ -1,0 +1,14 @@
+{
+  "name": "Цепочка слов",
+  "short_name": "Цепочка слов",
+  "description": "Игра в слова для двоих",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e0f13",
+  "theme_color": "#0e0f13",
+  "icons": [
+    { "src": "/icon.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
