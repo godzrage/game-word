@@ -1,0 +1,7 @@
+{
+  "appId": "com.wordchain.game",
+  "appName": "Цепочка слов",
+  "webDir": "dist",
+  "backgroundColor": "#0e0f13",
+  "android": { "allowMixedContent": false }
+}
